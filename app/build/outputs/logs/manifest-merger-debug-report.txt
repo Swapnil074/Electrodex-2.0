@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/swapnil/.gradle/caches/transforms-3/ec0450d1216de0ba85bfad9bf1f9b9f5/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /home/swapnil/.gradle/caches/transforms-3/9ed99570ec213034a19d25268dfa6d24/transformed/jetified-lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /home/swapnil/.gradle/caches/transforms-3/425d2829de315a584f03c1d0e1002494/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/swapnil/.gradle/caches/transforms-3/d45f9dffb56768ec6891f52fadd3f800/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/swapnil/.gradle/caches/transforms-3/42f2db93f9c2b9d92b00847da63eb2f1/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/swapnil/.gradle/caches/transforms-3/a7c5f052359226f8e71ec44968d8c7be/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.2.0] /home/swapnil/.gradle/caches/transforms-3/473f031687edfbcbd1a2ed6a9f17e65a/transformed/jetified-tensorflow-lite-task-vision-0.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/swapnil/.gradle/caches/transforms-3/cf8273260962e17992eaebbc79b040f0/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/swapnil/.gradle/caches/transforms-3/1734cbacb83c1c1d893047af8b40a305/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/swapnil/.gradle/caches/transforms-3/4373f9624753e88c0238b57af7d05233/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/swapnil/.gradle/caches/transforms-3/f4659a953e5358aa07b8da228cb9b849/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/swapnil/.gradle/caches/transforms-3/d9d81fe410d657ce1e1a661215191fa5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/swapnil/.gradle/caches/transforms-3/53c6a8a09d5b61cd176197e467882aec/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/swapnil/.gradle/caches/transforms-3/0b59745e9b33e847cdd7bbab0b26e00f/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/swapnil/.gradle/caches/transforms-3/8712fdd977abc9a5de1c910593357ce3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/swapnil/.gradle/caches/transforms-3/00d733bd3b0df39f09f95b2ab9864810/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/swapnil/.gradle/caches/transforms-3/0a8f9bf7e0c89d187816ef6e254855e5/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/swapnil/.gradle/caches/transforms-3/d663e95941f5299b8b5d0b75fc6a0898/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/swapnil/.gradle/caches/transforms-3/49c769b5c6940fdbfe3cf25a17d5b387/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/swapnil/.gradle/caches/transforms-3/512ab81814346f18d8ab353a9b4a2414/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/swapnil/.gradle/caches/transforms-3/df9f3d31acdd4045353d1606b8d41ecc/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/swapnil/.gradle/caches/transforms-3/5d476ce888ae6af6b933b5b23822a392/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/swapnil/.gradle/caches/transforms-3/bde2df02fe9d6cf74306c1ab1fbf44a5/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/swapnil/.gradle/caches/transforms-3/f58c943717716fce9ea7087ea0466fc3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/swapnil/.gradle/caches/transforms-3/7a3400da48d7901a238272d1c2c53024/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /home/swapnil/.gradle/caches/transforms-3/e930aeb2e7dda842f7ed021a221abc79/transformed/lifecycle-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/swapnil/.gradle/caches/transforms-3/c4ce01c0e0f828a60faefbf0c5bcd7e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/swapnil/.gradle/caches/transforms-3/ad618f9db7d2ff4e125bb31f7a6a8ac6/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/swapnil/.gradle/caches/transforms-3/589108731fa11a845a57c3eca5cb1987/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/swapnil/.gradle/caches/transforms-3/787a81a0aa4987041e67a21c15297d99/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/swapnil/.gradle/caches/transforms-3/bf2247f35885bb5fd6362d2cc0e98b33/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/swapnil/.gradle/caches/transforms-3/06c1db51527a6f1798274360408d55a5/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/swapnil/.gradle/caches/transforms-3/05f40a25139f01dbfd472c4c6523543c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/swapnil/.gradle/caches/transforms-3/20aa30a0e35dbb344b27ec493036432c/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/swapnil/.gradle/caches/transforms-3/916b57c540e675d0fce4b670cfd0375f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/swapnil/.gradle/caches/transforms-3/783b181603c09edf5c46776c00b011de/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/swapnil/.gradle/caches/transforms-3/a6e2d4ab4b72fc25ae8f49ac17183888/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.2.0] /home/swapnil/.gradle/caches/transforms-3/ac504504e1f4712ed7d86b6a8dbf5dfc/transformed/jetified-tensorflow-lite-task-base-0.2.0/AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] /home/swapnil/.gradle/caches/transforms-3/9826c2b93ac4ae79428d997cc0fb3c0e/transformed/jetified-tensorflow-lite-support-0.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] /home/swapnil/.gradle/caches/transforms-3/955ac711d725146dcdc423e1934df59e/transformed/jetified-tensorflow-lite-2.4.0/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+		INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:11-69
+queries
+ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:5:5-9:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:6:9-8:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:7:13-73
+	android:name
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:7:21-70
+application
+ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:11:5-35:19
+MERGED from [com.google.android.material:material:1.3.0] /home/swapnil/.gradle/caches/transforms-3/425d2829de315a584f03c1d0e1002494/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /home/swapnil/.gradle/caches/transforms-3/425d2829de315a584f03c1d0e1002494/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/swapnil/.gradle/caches/transforms-3/d45f9dffb56768ec6891f52fadd3f800/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/swapnil/.gradle/caches/transforms-3/d45f9dffb56768ec6891f52fadd3f800/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] /home/swapnil/.gradle/caches/transforms-3/bde2df02fe9d6cf74306c1ab1fbf44a5/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/swapnil/.gradle/caches/transforms-3/bde2df02fe9d6cf74306c1ab1fbf44a5/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/swapnil/.gradle/caches/transforms-3/c4ce01c0e0f828a60faefbf0c5bcd7e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/swapnil/.gradle/caches/transforms-3/c4ce01c0e0f828a60faefbf0c5bcd7e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.2.0] /home/swapnil/.gradle/caches/transforms-3/ac504504e1f4712ed7d86b6a8dbf5dfc/transformed/jetified-tensorflow-lite-task-base-0.2.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.2.0] /home/swapnil/.gradle/caches/transforms-3/ac504504e1f4712ed7d86b6a8dbf5dfc/transformed/jetified-tensorflow-lite-task-base-0.2.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] /home/swapnil/.gradle/caches/transforms-3/955ac711d725146dcdc423e1934df59e/transformed/jetified-tensorflow-lite-2.4.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] /home/swapnil/.gradle/caches/transforms-3/955ac711d725146dcdc423e1934df59e/transformed/jetified-tensorflow-lite-2.4.0/AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /home/swapnil/.gradle/caches/transforms-3/bde2df02fe9d6cf74306c1ab1fbf44a5/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:17:9-53
+activity#org.tensorflow.codelabs.objectdetection.MainActivity
+ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:18:19-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:22:27-74
+provider#androidx.core.content.FileProvider
+ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:grantUriPermissions
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:30:13-47
+	android:authorities
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:28:13-87
+	android:exported
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:27:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:31:13-33:54
+	android:resource
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:33:17-51
+	android:name
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:32:17-67
+uses-sdk
+INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] /home/swapnil/.gradle/caches/transforms-3/ec0450d1216de0ba85bfad9bf1f9b9f5/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/swapnil/.gradle/caches/transforms-3/ec0450d1216de0ba85bfad9bf1f9b9f5/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /home/swapnil/.gradle/caches/transforms-3/9ed99570ec213034a19d25268dfa6d24/transformed/jetified-lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /home/swapnil/.gradle/caches/transforms-3/9ed99570ec213034a19d25268dfa6d24/transformed/jetified-lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /home/swapnil/.gradle/caches/transforms-3/425d2829de315a584f03c1d0e1002494/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /home/swapnil/.gradle/caches/transforms-3/425d2829de315a584f03c1d0e1002494/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/swapnil/.gradle/caches/transforms-3/d45f9dffb56768ec6891f52fadd3f800/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/swapnil/.gradle/caches/transforms-3/d45f9dffb56768ec6891f52fadd3f800/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/swapnil/.gradle/caches/transforms-3/42f2db93f9c2b9d92b00847da63eb2f1/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/swapnil/.gradle/caches/transforms-3/42f2db93f9c2b9d92b00847da63eb2f1/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/swapnil/.gradle/caches/transforms-3/a7c5f052359226f8e71ec44968d8c7be/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/swapnil/.gradle/caches/transforms-3/a7c5f052359226f8e71ec44968d8c7be/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.2.0] /home/swapnil/.gradle/caches/transforms-3/473f031687edfbcbd1a2ed6a9f17e65a/transformed/jetified-tensorflow-lite-task-vision-0.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.2.0] /home/swapnil/.gradle/caches/transforms-3/473f031687edfbcbd1a2ed6a9f17e65a/transformed/jetified-tensorflow-lite-task-vision-0.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/swapnil/.gradle/caches/transforms-3/cf8273260962e17992eaebbc79b040f0/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/swapnil/.gradle/caches/transforms-3/cf8273260962e17992eaebbc79b040f0/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/swapnil/.gradle/caches/transforms-3/1734cbacb83c1c1d893047af8b40a305/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/swapnil/.gradle/caches/transforms-3/1734cbacb83c1c1d893047af8b40a305/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/swapnil/.gradle/caches/transforms-3/4373f9624753e88c0238b57af7d05233/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/swapnil/.gradle/caches/transforms-3/4373f9624753e88c0238b57af7d05233/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/swapnil/.gradle/caches/transforms-3/f4659a953e5358aa07b8da228cb9b849/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/swapnil/.gradle/caches/transforms-3/f4659a953e5358aa07b8da228cb9b849/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/swapnil/.gradle/caches/transforms-3/d9d81fe410d657ce1e1a661215191fa5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/swapnil/.gradle/caches/transforms-3/d9d81fe410d657ce1e1a661215191fa5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/swapnil/.gradle/caches/transforms-3/53c6a8a09d5b61cd176197e467882aec/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/swapnil/.gradle/caches/transforms-3/53c6a8a09d5b61cd176197e467882aec/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/swapnil/.gradle/caches/transforms-3/0b59745e9b33e847cdd7bbab0b26e00f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/swapnil/.gradle/caches/transforms-3/0b59745e9b33e847cdd7bbab0b26e00f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/swapnil/.gradle/caches/transforms-3/8712fdd977abc9a5de1c910593357ce3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/swapnil/.gradle/caches/transforms-3/8712fdd977abc9a5de1c910593357ce3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/swapnil/.gradle/caches/transforms-3/00d733bd3b0df39f09f95b2ab9864810/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/swapnil/.gradle/caches/transforms-3/00d733bd3b0df39f09f95b2ab9864810/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/swapnil/.gradle/caches/transforms-3/0a8f9bf7e0c89d187816ef6e254855e5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/swapnil/.gradle/caches/transforms-3/0a8f9bf7e0c89d187816ef6e254855e5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/swapnil/.gradle/caches/transforms-3/d663e95941f5299b8b5d0b75fc6a0898/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/swapnil/.gradle/caches/transforms-3/d663e95941f5299b8b5d0b75fc6a0898/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/swapnil/.gradle/caches/transforms-3/49c769b5c6940fdbfe3cf25a17d5b387/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/swapnil/.gradle/caches/transforms-3/49c769b5c6940fdbfe3cf25a17d5b387/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/swapnil/.gradle/caches/transforms-3/512ab81814346f18d8ab353a9b4a2414/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/swapnil/.gradle/caches/transforms-3/512ab81814346f18d8ab353a9b4a2414/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/swapnil/.gradle/caches/transforms-3/df9f3d31acdd4045353d1606b8d41ecc/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/swapnil/.gradle/caches/transforms-3/df9f3d31acdd4045353d1606b8d41ecc/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/swapnil/.gradle/caches/transforms-3/5d476ce888ae6af6b933b5b23822a392/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/swapnil/.gradle/caches/transforms-3/5d476ce888ae6af6b933b5b23822a392/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/swapnil/.gradle/caches/transforms-3/bde2df02fe9d6cf74306c1ab1fbf44a5/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/swapnil/.gradle/caches/transforms-3/bde2df02fe9d6cf74306c1ab1fbf44a5/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/swapnil/.gradle/caches/transforms-3/f58c943717716fce9ea7087ea0466fc3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/swapnil/.gradle/caches/transforms-3/f58c943717716fce9ea7087ea0466fc3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/swapnil/.gradle/caches/transforms-3/7a3400da48d7901a238272d1c2c53024/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/swapnil/.gradle/caches/transforms-3/7a3400da48d7901a238272d1c2c53024/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /home/swapnil/.gradle/caches/transforms-3/e930aeb2e7dda842f7ed021a221abc79/transformed/lifecycle-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /home/swapnil/.gradle/caches/transforms-3/e930aeb2e7dda842f7ed021a221abc79/transformed/lifecycle-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/swapnil/.gradle/caches/transforms-3/c4ce01c0e0f828a60faefbf0c5bcd7e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/swapnil/.gradle/caches/transforms-3/c4ce01c0e0f828a60faefbf0c5bcd7e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/swapnil/.gradle/caches/transforms-3/ad618f9db7d2ff4e125bb31f7a6a8ac6/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/swapnil/.gradle/caches/transforms-3/ad618f9db7d2ff4e125bb31f7a6a8ac6/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/swapnil/.gradle/caches/transforms-3/589108731fa11a845a57c3eca5cb1987/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/swapnil/.gradle/caches/transforms-3/589108731fa11a845a57c3eca5cb1987/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/swapnil/.gradle/caches/transforms-3/787a81a0aa4987041e67a21c15297d99/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/swapnil/.gradle/caches/transforms-3/787a81a0aa4987041e67a21c15297d99/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/swapnil/.gradle/caches/transforms-3/bf2247f35885bb5fd6362d2cc0e98b33/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/swapnil/.gradle/caches/transforms-3/bf2247f35885bb5fd6362d2cc0e98b33/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/swapnil/.gradle/caches/transforms-3/06c1db51527a6f1798274360408d55a5/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/swapnil/.gradle/caches/transforms-3/06c1db51527a6f1798274360408d55a5/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/swapnil/.gradle/caches/transforms-3/05f40a25139f01dbfd472c4c6523543c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/swapnil/.gradle/caches/transforms-3/05f40a25139f01dbfd472c4c6523543c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/swapnil/.gradle/caches/transforms-3/20aa30a0e35dbb344b27ec493036432c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/swapnil/.gradle/caches/transforms-3/20aa30a0e35dbb344b27ec493036432c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/swapnil/.gradle/caches/transforms-3/916b57c540e675d0fce4b670cfd0375f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/swapnil/.gradle/caches/transforms-3/916b57c540e675d0fce4b670cfd0375f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/swapnil/.gradle/caches/transforms-3/783b181603c09edf5c46776c00b011de/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/swapnil/.gradle/caches/transforms-3/783b181603c09edf5c46776c00b011de/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/swapnil/.gradle/caches/transforms-3/a6e2d4ab4b72fc25ae8f49ac17183888/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/swapnil/.gradle/caches/transforms-3/a6e2d4ab4b72fc25ae8f49ac17183888/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] /home/swapnil/.gradle/caches/transforms-3/9826c2b93ac4ae79428d997cc0fb3c0e/transformed/jetified-tensorflow-lite-support-0.2.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] /home/swapnil/.gradle/caches/transforms-3/9826c2b93ac4ae79428d997cc0fb3c0e/transformed/jetified-tensorflow-lite-support-0.2.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] /home/swapnil/.gradle/caches/transforms-3/955ac711d725146dcdc423e1934df59e/transformed/jetified-tensorflow-lite-2.4.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] /home/swapnil/.gradle/caches/transforms-3/955ac711d725146dcdc423e1934df59e/transformed/jetified-tensorflow-lite-2.4.0/AndroidManifest.xml:7:5-8:41
+INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+		INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+		ADDED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+		MERGED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+		INJECTED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/swapnil/Desktop/MinorProject-2/Electrodex/app/src/main/AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core requested WRITE_EXTERNAL_STORAGE
